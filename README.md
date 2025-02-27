@@ -5,3 +5,4 @@
 - 📫 How to reach me: Discord.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I breathe oxygen.
+- Website: https://wrldmap.github.io or https://wrldmap.neocities.org
